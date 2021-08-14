@@ -2,3 +2,9 @@
   color: rgba(255, 255, 255, 1) !important;
   font-weight: 400 !important;
 }
+.navbar-brand span {
+  letter-spacing: 3px;
+  font-weight: 600;
+
+  margin-left: 5%;
+}
